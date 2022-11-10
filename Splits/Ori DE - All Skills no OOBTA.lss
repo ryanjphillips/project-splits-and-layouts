@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Ori DE</GameName>
+  <CategoryName>All Skills</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>64</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="04/20/2021 04:53:32" isStartedSynced="True" ended="04/20/2021 05:06:17" isEndedSynced="True" />
+    <Attempt id="2" started="04/20/2021 05:06:17" isStartedSynced="True" ended="04/20/2021 05:29:01" isEndedSynced="True" />
+    <Attempt id="3" started="04/20/2021 06:08:55" isStartedSynced="True" ended="04/20/2021 06:08:57" isEndedSynced="True" />
+    <Attempt id="4" started="04/20/2021 06:08:57" isStartedSynced="True" ended="04/20/2021 06:10:36" isEndedSynced="True" />
+    <Attempt id="5" started="04/20/2021 06:13:40" isStartedSynced="True" ended="04/20/2021 06:14:43" isEndedSynced="True" />
+    <Attempt id="6" started="04/20/2021 06:18:13" isStartedSynced="True" ended="04/20/2021 06:18:56" isEndedSynced="True" />
+    <Attempt id="7" started="04/20/2021 06:51:01" isStartedSynced="True" ended="04/20/2021 06:51:09" isEndedSynced="True" />
+    <Attempt id="8" started="04/20/2021 06:51:09" isStartedSynced="True" ended="04/20/2021 06:51:10" isEndedSynced="True" />
+    <Attempt id="9" started="04/20/2021 06:51:10" isStartedSynced="True" ended="04/20/2021 06:51:10" isEndedSynced="True" />
+    <Attempt id="10" started="04/20/2021 06:51:10" isStartedSynced="True" ended="04/20/2021 06:51:14" isEndedSynced="True" />
+    <Attempt id="11" started="04/20/2021 06:51:14" isStartedSynced="True" ended="04/20/2021 06:51:14" isEndedSynced="True" />
+    <Attempt id="12" started="04/20/2021 06:51:14" isStartedSynced="True" ended="04/20/2021 06:51:15" isEndedSynced="True" />
+    <Attempt id="13" started="04/20/2021 06:51:15" isStartedSynced="True" ended="04/20/2021 06:51:17" isEndedSynced="True" />
+    <Attempt id="14" started="04/20/2021 06:51:17" isStartedSynced="True" ended="04/20/2021 06:51:17" isEndedSynced="True" />
+    <Attempt id="15" started="04/20/2021 06:51:17" isStartedSynced="True" ended="04/20/2021 06:51:18" isEndedSynced="True" />
+    <Attempt id="16" started="04/20/2021 06:51:18" isStartedSynced="True" ended="04/20/2021 06:51:18" isEndedSynced="True" />
+    <Attempt id="17" started="04/20/2021 06:51:18" isStartedSynced="True" ended="04/20/2021 06:51:20" isEndedSynced="True" />
+    <Attempt id="18" started="04/20/2021 06:51:20" isStartedSynced="True" ended="04/20/2021 06:51:20" isEndedSynced="True" />
+    <Attempt id="19" started="04/20/2021 06:51:20" isStartedSynced="True" ended="04/20/2021 06:51:21" isEndedSynced="True" />
+    <Attempt id="20" started="04/20/2021 06:51:21" isStartedSynced="True" ended="04/20/2021 06:51:21" isEndedSynced="True" />
+    <Attempt id="21" started="04/20/2021 06:51:21" isStartedSynced="True" ended="04/20/2021 06:51:22" isEndedSynced="True" />
+    <Attempt id="22" started="04/20/2021 06:51:22" isStartedSynced="True" ended="04/20/2021 06:51:25" isEndedSynced="True" />
+    <Attempt id="23" started="04/20/2021 06:51:25" isStartedSynced="True" ended="04/20/2021 06:52:11" isEndedSynced="True" />
+    <Attempt id="24" started="04/20/2021 06:52:17" isStartedSynced="True" ended="04/20/2021 06:52:18" isEndedSynced="True" />
+    <Attempt id="25" started="04/20/2021 07:03:12" isStartedSynced="True" ended="04/20/2021 07:03:13" isEndedSynced="True" />
+    <Attempt id="26" started="04/20/2021 07:03:13" isStartedSynced="True" ended="04/20/2021 07:03:46" isEndedSynced="True" />
+    <Attempt id="27" started="04/20/2021 07:14:14" isStartedSynced="True" ended="04/20/2021 07:15:36" isEndedSynced="True" />
+    <Attempt id="28" started="04/20/2021 07:21:36" isStartedSynced="True" ended="04/20/2021 07:21:38" isEndedSynced="True" />
+    <Attempt id="29" started="04/20/2021 07:21:38" isStartedSynced="True" ended="04/20/2021 07:24:36" isEndedSynced="True" />
+    <Attempt id="30" started="04/20/2021 07:53:17" isStartedSynced="True" ended="04/20/2021 07:55:49" isEndedSynced="True" />
+    <Attempt id="31" started="04/20/2021 08:14:43" isStartedSynced="True" ended="04/20/2021 08:15:33" isEndedSynced="True" />
+    <Attempt id="32" started="04/20/2021 08:29:14" isStartedSynced="True" ended="04/20/2021 08:29:30" isEndedSynced="True" />
+    <Attempt id="33" started="04/20/2021 08:29:30" isStartedSynced="True" ended="04/20/2021 08:29:30" isEndedSynced="True" />
+    <Attempt id="34" started="04/20/2021 08:29:30" isStartedSynced="True" ended="04/20/2021 08:29:30" isEndedSynced="True" />
+    <Attempt id="35" started="04/20/2021 08:30:44" isStartedSynced="True" ended="04/20/2021 08:30:45" isEndedSynced="True" />
+    <Attempt id="36" started="04/20/2021 08:30:45" isStartedSynced="True" ended="04/20/2021 08:31:22" isEndedSynced="True" />
+    <Attempt id="37" started="04/20/2021 08:31:54" isStartedSynced="False" ended="04/20/2021 08:31:59" isEndedSynced="False" />
+    <Attempt id="38" started="04/20/2021 08:31:59" isStartedSynced="False" ended="04/20/2021 08:32:00" isEndedSynced="False" />
+    <Attempt id="39" started="04/20/2021 08:32:00" isStartedSynced="False" ended="04/20/2021 08:32:00" isEndedSynced="False" />
+    <Attempt id="40" started="04/20/2021 08:32:00" isStartedSynced="False" ended="04/20/2021 08:32:02" isEndedSynced="False" />
+    <Attempt id="41" started="04/20/2021 08:32:02" isStartedSynced="False" ended="04/20/2021 08:32:05" isEndedSynced="False" />
+    <Attempt id="42" started="04/20/2021 08:32:05" isStartedSynced="False" ended="04/20/2021 08:32:07" isEndedSynced="False" />
+    <Attempt id="43" started="04/20/2021 08:32:07" isStartedSynced="False" ended="04/20/2021 08:32:08" isEndedSynced="False" />
+    <Attempt id="44" started="04/20/2021 08:32:08" isStartedSynced="False" ended="04/20/2021 08:32:10" isEndedSynced="False" />
+    <Attempt id="45" started="04/20/2021 08:32:10" isStartedSynced="False" ended="04/20/2021 08:32:11" isEndedSynced="False" />
+    <Attempt id="46" started="04/20/2021 08:32:11" isStartedSynced="False" ended="04/20/2021 08:33:34" isEndedSynced="True" />
+    <Attempt id="47" started="04/20/2021 08:33:34" isStartedSynced="True" ended="04/20/2021 08:35:50" isEndedSynced="True" />
+    <Attempt id="48" started="04/20/2021 08:36:02" isStartedSynced="True" ended="04/20/2021 08:36:28" isEndedSynced="True" />
+    <Attempt id="49" started="04/20/2021 08:36:31" isStartedSynced="True" ended="04/20/2021 08:36:44" isEndedSynced="True" />
+    <Attempt id="50" started="04/20/2021 08:37:27" isStartedSynced="True" ended="04/20/2021 08:41:21" isEndedSynced="True" />
+    <Attempt id="51" started="04/20/2021 08:41:30" isStartedSynced="True" ended="04/20/2021 08:43:31" isEndedSynced="True" />
+    <Attempt id="52" started="04/20/2021 08:43:40" isStartedSynced="True" ended="04/20/2021 08:49:02" isEndedSynced="True" />
+    <Attempt id="53" started="04/20/2021 08:49:29" isStartedSynced="True" ended="04/20/2021 08:49:50" isEndedSynced="True" />
+    <Attempt id="54" started="04/20/2021 08:49:53" isStartedSynced="True" ended="04/20/2021 08:50:00" isEndedSynced="True" />
+    <Attempt id="55" started="04/20/2021 08:50:03" isStartedSynced="True" ended="04/20/2021 08:51:25" isEndedSynced="True" />
+    <Attempt id="56" started="04/20/2021 08:51:38" isStartedSynced="True" ended="04/20/2021 08:53:39" isEndedSynced="True" />
+    <Attempt id="57" started="04/20/2021 08:53:49" isStartedSynced="True" ended="04/20/2021 08:58:46" isEndedSynced="True" />
+    <Attempt id="58" started="04/20/2021 08:58:51" isStartedSynced="True" ended="04/20/2021 09:01:09" isEndedSynced="True" />
+    <Attempt id="59" started="04/20/2021 09:01:13" isStartedSynced="True" ended="04/20/2021 09:04:25" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Wall Jump</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:51.0350000</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="52">
+          <RealTime>00:03:53.5370000</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+        <Time id="57">
+          <RealTime>00:03:51.0350000</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dash</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Double Jump</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Enter Ginso</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Bash</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Stomp</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Charge Flame</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Feather</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Charge Jump</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Climb</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Grenade</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Enter Horu</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>End</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <MapDisplay>False</MapDisplay>
+    <RainbowDash>False</RainbowDash>
+    <AlphaSort>False</AlphaSort>
+    <Splits>
+      <Split Value="True" ShouldSplit="True">Start Game</Split>
+      <Split Value="True" ShouldSplit="True">Wall Jump</Split>
+      <Split Value="True" ShouldSplit="True">Dash</Split>
+      <Split Value="True" ShouldSplit="True">Double Jump</Split>
+      <Split Value="True" ShouldSplit="True">Ginso Tree Entered</Split>
+      <Split Value="True" ShouldSplit="True">Bash</Split>
+      <Split Value="True" ShouldSplit="True">Stomp</Split>
+      <Split Value="True" ShouldSplit="True">Charge Flame</Split>
+      <Split Value="True" ShouldSplit="True">Glide</Split>
+      <Split Value="True" ShouldSplit="True">Charge Jump</Split>
+      <Split Value="True" ShouldSplit="True">Climb</Split>
+      <Split Value="True" ShouldSplit="True">Light Grenade</Split>
+      <Split Value="True" ShouldSplit="True">Mount Horu Entered</Split>
+      <Split Value="True" ShouldSplit="True">End Game</Split>
+    </Splits>
+  </AutoSplitterSettings>
+</Run>

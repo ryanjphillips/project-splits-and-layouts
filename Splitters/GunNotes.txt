@@ -1,0 +1,17 @@
+GUN Speedrun:
+
+		Timing starts when you first move. "All runs must start from a new file. Timer starts on first render of "The Hunt" and stops at the last "Mission Completed" at the time you killed Magruder."
+		Sub Splits
+		After cutscene - For Beginning
+		
+		Autosplit after cutscene ends variable?
+		
+		Success - You completed screen Every misson
+		
+		Ending - Success continue
+		
+		
+		saves
+		
+		
+		

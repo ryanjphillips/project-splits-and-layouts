@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon><![CDATA[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]]></GameIcon>
+  <GameName>Star Trek: Voyager - Elite Force</GameName>
+  <CategoryName>Colony 7</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables>
+      <Variable name="Difficulty">Easy</Variable>
+    </Variables>
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Days Like These</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Incursion</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Only Option</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Nemesis</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Minas</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pieces of Information</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pursuit</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Secrets</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Escape - Part I</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Escape - Part II</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Back on Hetleck</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Lower Levels - Part I</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Lower Levels - Part II</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Lower Levels - Part III</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Ancient Dream</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Abyss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Bridge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>On the Shoulders of Giants</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Gordon Solitaire</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Device - Part I</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Device - Part II</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <version>1.11.0.0</version>
+    <usedEvents>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-1_1.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-1_2.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-1_3.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-1_4.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-2_1.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-2_2.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-2_3.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-2_4.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-2_5.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-2_6.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-3_1.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-3_3.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-3_4.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-3_5.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-3_6.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-3_7.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-3_8.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-3_9.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-3_10.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-3_12.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.StVoyEf.LoadedMapEvent</type>
+        <attribute>c7-3_13.bsp</attribute>
+      </event>
+      <event>
+        <type>LiveSplit.ComponentAutosplitter.EmptyEvent</type>
+      </event>
+    </usedEvents>
+  </AutoSplitterSettings>
+</Run>

@@ -1,0 +1,186 @@
+Welcome!:
+		Hello and Welcome to the t2_rancor speedrunning tutorial! My name is Your_Solution or YS for short and I will be guiding you in speedrunning this very complex level. For reference, my livesplit will display the different segements on the left, denoted by the red box. As well, you will be able to view my inputs in game, in the bottom left yellow box.
+		
+Mission Objectives and Weapons:
+		The mission objectives/concepts in rancor are the following:
+			 Save 13 out of 16 Prisoners ( 4 Groups of 4 Prisoners)
+			 "Rescue" the prisoners by releasing them with predetermined switches
+			 Manipulate the prisoners to be faster
+			 Escort those prisoners to the end of the level (beginning). The runners will run to the end trigger if unrestriced to do so. 
+			 Avoid and manipulate the rancor
+			 Clear enemies to protect prisoners
+			 There are two "teams" enemy teams (enemy AIs) and your team (with the prisoners)
+			
+			
+			 To recap, killing enemies as fast as you can, manipulating the rancor correctly, getting to buttons fast, are the key concepts.
+
+Weapons and Force Select select: 
+			Recommended Force Powers:
+					Mindtrick 1 // Rancor Manip
+					Lightning 3 // Killing Enemies
+			Weapons:
+					Flechette // Breaking vent grates
+					Imperial Heavy Repeater // Killing Enemies 
+					TDs // Animaition Clipping
+
+			Can do it without Lightning 3, just heavily reccommended for faster, safer runs.
+					
+					
+Beginning Tunnels:
+		Beginning tunnel:
+			 Mention that this is the begging and the end of the level. End trigger will not spawn unless you get 13 out of 16.
+			 Start off by getting an EB,CB, SG at the begging of the tunnel
+			 Enter tunnel, if you get stuck. Spam jump.
+			 Right click/Left click the ventilation grate with the right click flatchette
+			 Clear Enemies besides the one at the end of the tunnel
+			 Lightning 3 can kill the first three or you can use the right click heavy repeater
+			 Remind them of pull canceling 
+			 Sometimes it might be worth to double check that you have killed all the enemies.
+				Reasons to kill the Enemies:
+						1) enemies will kill prisoners
+						2) enemies will unmanipulate the rancor (unmind trick him)
+		Elevator room:
+			 Kill these two
+			 Can right click with for both
+			 Jump to the next room
+			
+		Switch Room:
+			 I recommned killing every one in this room. Sometimes not killing all of them will lead to the rancor being distracted.
+			 Lightning 3 is good here.
+			 Sometimes the body will land in the switch. Crouch and you will be able to hit it.
+			 Right when you hit the button jump and crouch to manuever under the door. 
+
+		Big thing is find the setup that works for you and is consistent in killing the enemies.
+		
+Killing the Prisoners and manipulating them:
+
+			 Describe Prioners Goal and script. Where are they running too? The ending trigger. What stops them getting bunched at the begginng, keycard door, rancor, and enemies. 
+			 Drop down and equip grenade and start right or left clicking
+			So what happens if we dont kill the three prisoners? The prioners will get bunched up at the beginning and not run to the keycard door.
+			 We will now kill three of the prisoners, this is because the game gives us a leniance and allows three prisoners to die  13 out of 16. And the less prioners the faster the level will be because each prisoner needs to walk to the 			end. And killing these prisoners will unblock the rest of the prioners.
+			Now we could let the rancor kill them or the enemies, however that is not optimal. What we can do is kill them ourselves. Now if you kill the prisoners the prisoners, while they are in there scared animation then they will be 				NOT turn to enemy team.	turn to the other team denoted by the red cursor. If the prioners turn to the other team will be able to kill them easier (something that we do not want) and we will not be able to manipulate the rancor 
+			 Find setup that works for you. You can wait and and left click in the corner of the pillars and start running faster. Or wait and check and right click and making sure you can kill them. Want to think about killing them right as the guy pulls the lever.
+			 If you kill them at the correct time, you can kill them and then still have them counted as SAVED, but most of the time this will not result in the prioners being saved. If you would like more on this please go to the IL Glitch section of the video.
+Rancor Manipulation:
+
+			 Rolling/Shooting/Lightsaber the rancor will make the rancor follow you
+			 Mind Tricking the rancor will make the rancor stand still and his head staionary. 
+			 If you dont kill all the enemies the enemies can break his mind trick. As well as distract him from chasing you (switch room)
+			 Anything walking in front of him or attacking him will break his mind trick.
+			
+Buttons:
+			First Button: 
+				 Run around pillar that hurts you.
+				 QS before hitting the button incase the rancor does not become mindtricked correctly.
+				 Get middle left then look straight down, left click with TD.
+				 Using your TDs clip through the wall around this area. If you need too make sure that you look higher when animation clipping to get this first button. (Can also use saber kata)
+				 Make sure to drop to the floor before the cutscene plays
+				 Either jump or turn to the left before rancor grabs you
+				 Make sure the rancor is looking at the wall. If the rancor ever becomes unmindtricked its because the prisoners were spotted by either the prisoners or enemeies (if not killed)
+				 Sometimes the rancor will turn after being mindtricked 
+				 If you cannot mind trick the rancor then you did not kill the first group of prisoners at the right time.
+				 *Locate and show where the trigger is* Each prisoner group has a trigger to "set them free"
+				
+			Second Button:
+				 Continue chain to the second button.
+				 You can use left click TDs on either of the sides. 
+				 Once you start getting it down you can jump into the side and cock the the TD before getting there.
+				 Cant miss the trigger for the prisoners
+				
+			Third Button:
+				 Trickiest TD setup.
+				 Make sure to quick save before doing the TD throw because sometimes the TD will kill the prisoners running behind you.
+				 Force yourself against the wall then wall straight to the corner.
+				 Look a little lower than center and leftclick TD
+				 Cant really miss the prisoner trigger
+
+Movemtent Tips:
+
+				EB
+				
+					 On EB make use of small ledges you can jump up to gain boosts.
+					 As well, utilize the QS/QL load buffer to get boosts at your will.
+					 Use the circle pit to get boosts as well.
+				
+				CB
+					 I would recommned trying to CB straight to the buttons, but you can use the same strats as EB to help your CBS.
+					
+				SG
+					 Just Spin LUL
+				
+				
+Clearing the Tunnel:
+			
+			 Make your way back to the tunnel.
+			 Once you get to the prisoner, QS and QL. This will further the (skip) dialogue and make the mission faster.
+			 You will know when you did it right when the prionser says "Is the way clear?"
+			
+		Keycard Tunnel:
+			 Total of 4 grans, 1 keycard
+			 The goal is to open the door as fast as possible so the prisoners can all get rescued
+			 If the prisoners are on your team, you can use lightning 3 and they will not get hurt.
+			 Equip the Repeater and use the rightclick (alt fire) to kill the groups of grans
+			 QS for saftey because the prisoners can easily die here, so be as fast as possible for max safety
+			 After killing the last merc, pickup the card and open the door
+			 Use sense to MAKE SURE THAT YOU HAVE EVERYBODY KILLED
+			 Preceed to the last prisoner
+			 Using Speed in the tunnel might be beneifical 
+			
+Killing the Last prisoner:
+
+			So you know how we said that we could only kill 13 out of 16 prisoners?
+			Well that was a lie.
+			Walk towards the prisoner. Before you get to the dialogue trigger do a quick save.
+			Once you trigger the dialogue you need to kill him.
+			Once the screen goes black wait about 5 seconds and when you hear "Here take this key" quickly QS/QL.
+			When you QS/QL when the screen is fading to black, it breaks the game and stops the game from softlocking.
+			Preceed to the end tunnel.
+			There is a certain part of the tunnel where the prisoners will need to reach in order for the end trigger. *show trigger*
+			Using push (and grip wont go into that) can accelerate this process.
+			Once your see the objective in the top middle update. Rush to that same trigger and you will complete the level.
+			
+Backups:
+	
+			 What happens if you do not kill all three prisoners in the first group?
+					If you do not kill all the prisoners in the beginning group, you can still complete the level.
+					Just kill all the prisoners that are not the leader. The leader is the top right one.
+					This will change the teams, so when you kill the enemies in the hallway you cannot use lightning and the prioners will be easier to accidently kill.
+					After you open the door proceed as normal
+					
+			 What happens if the rancor breaks mindtrick?
+					You pretty much have to get lucky. 
+					Try to mindtrick the rancor into looking a wall.
+					try to aggro the rancor to the best of your ability
+					
+			What happens if I miss an enemy?
+					There are times were the enemies will miss the prisoners and not kill them fast enough, but mostly this will lead to either reseting the level or run
+					
+IL Glitch:
+
+		 get to the start of the arena entrance" if you kill a prisoner at that dialouge which happens right after you skip the cutscene with the first group, they will be added to the total list of saved prisoners when you kill the last prisoner after you've opened up the way to the extraction point
+		 So what you want to aim for is to throw the TD in the corner right as the man is pulling the lever.
+		 When they first start to move or as soon as they are about to move, you want to kill them.
+	     So basically if you kill the prisoners before you trigger them as saved they will still count as saved and timing that with the animation makes it where you save them and them not turn on the enemy team.
+		 Show the ending of the mission with only 11 prisoners being added
+			
+				
+End:
+		 Tell them the ending. If you have any more questions ask in the JKA discord/PM me. 
+		 Thank you for watching
+		
+		
+Shoutouts:
+
+		 Jayden_Owem and HotShotWire for finding a lot strats on this level. And for helping me.
+		 Covert_Muffin for all the tutorial advice
+		 Meowington and MrLaay for motivating me to do this and help.
+		 JKA community 
+
+				
+Settings:
+		cg_fov default
+		unrestricted 
+		highest graphics 
+		noboard
+		high bitrate	
+		
